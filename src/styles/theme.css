@@ -1,0 +1,30 @@
+:root {
+  --color-primary: #0C4A6E;
+  --color-primary-dark: #08344d;
+  --color-primary-light: #c2d2db;
+  --color-secondary: #0369A1;
+  --color-accent: #06B6D4;
+  --color-background: #FFFFFF;
+  --color-background-alt: #0C4A6E;
+  --color-surface: #F0F4F7;
+  --color-text: #0F172A;
+  --color-text-light: #64748B;
+  --color-text-on-dark: #FFFFFF;
+  --color-border: #D1D5DB;
+  --font-heading: 'Plus Jakarta Sans', sans-serif;
+  --font-body: 'Inter', sans-serif;
+  --font-heading-weight: 700;
+  --font-body-weight: 400;
+  --heading-style: normal;
+  --type-scale: 1.2;
+  --radius: 8px;
+  --radius-button: 8px;
+  --radius-card: 12px;
+  --section-padding: 4.5rem;
+  --spacing-scale: 1;
+  --heading-scale: 1.2;
+  --shadow-intensity: 0.75;
+  --anim-distance: 24px;
+  --anim-duration: 0.6s;
+  --anim-stagger: 80ms;
+}

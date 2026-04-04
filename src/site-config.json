@@ -1,0 +1,596 @@
+{
+  "business": {
+    "name": "Summit Irrigation",
+    "phone": "555-irr-r91",
+    "category": "irrigation",
+    "city": "Sacramento",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "irrigation-mountain-bold",
+      "categoryGroup": "irrigation",
+      "name": "Mountain Bold",
+      "recipeFile": "irrigation/mountain-bold.astro",
+      "colors": {
+        "primary": "#0C4A6E",
+        "primaryDark": "#08344d",
+        "primaryLight": "#c2d2db",
+        "secondary": "#0369A1",
+        "accent": "#06B6D4",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#0C4A6E",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "irrigation/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Smart Irrigation for Sacramento Yards",
+      "heroSubline": "Custom irrigation solutions designed for our hot valley climate. We help homeowners conserve water while keeping landscapes thriving all year.",
+      "aboutTitle": "Rooted in Sacramento Soil",
+      "aboutText": [
+        "Founded in 2012, Summit Irrigation grew from a small family operation servicing Midtown bungalows to a trusted provider across the Sacramento Valley. Our founder's background in agriculture gave us unique insight into Central Valley irrigation challenges.",
+        "We approach every project with an understanding of our region's clay soil expansion, summer heat stress, and water conservation needs. Our team combines technical expertise with practical knowledge of local plant varieties and microclimates.",
+        "As active members of the Sacramento community, we're committed to responsible water use practices that benefit both homeowners and our shared environment. We sponsor local school garden projects and participate in water-wise landscaping workshops."
+      ],
+      "valueProps": [
+        {
+          "title": "Climate-Adapted Designs",
+          "description": "Systems engineered specifically for Sacramento's 100°+ summers and clay soil conditions."
+        },
+        {
+          "title": "Water-Smart Tech",
+          "description": "Smart controllers and efficient nozzles that reduce usage while maintaining healthy landscapes."
+        },
+        {
+          "title": "Local Plant Knowledge",
+          "description": "Recommendations for drought-tolerant species that thrive in our microclimates."
+        },
+        {
+          "title": "Reliable Maintenance",
+          "description": "Preventative care programs to handle seasonal expansion/contraction issues common in valley soils."
+        }
+      ],
+      "ctaHeadline": "Ready for a Smarter Irrigation System?",
+      "ctaSubline": "Schedule your free consultation today. Our Sacramento-based team will assess your property and recommend the right solution for your landscape."
+    },
+    "services": [
+      {
+        "slug": "irrigation-system-installation",
+        "name": "Irrigation System Installation",
+        "shortDescription": "Custom-designed sprinkler and drip systems for Sacramento homes and landscapes.",
+        "description": "Every Sacramento property has unique irrigation needs based on soil composition, sun exposure, and plant varieties. Our installations begin with a thorough evaluation of your landscape's specific requirements, considering factors like the clay-heavy soil common in Elk Grove or the water retention challenges in Roseville's newer developments.\n\nWe design systems with appropriate zoning to account for different plant water needs, using pressure-regulated heads that perform consistently in our hot summers. For drought-sensitive areas, we incorporate smart controllers that adjust watering based on local weather data. All installations include proper backflow prevention devices required by Sacramento County code.\n\nWhether you're planting new drought-tolerant landscaping in Folsom or need to water established trees in East Sacramento without wasting resources, we create efficient systems that grow with your landscape.",
+        "process": [
+          "Step 1: Site evaluation including soil test and water pressure measurement",
+          "Step 2: Custom system design with zoning plan",
+          "Step 3: Quality component selection (heads, pipes, controllers)",
+          "Step 4: Professional installation with minimal landscape disruption"
+        ],
+        "benefits": [
+          "Proper water distribution for healthier plants",
+          "Reduced runoff on clay soils",
+          "Zone-specific watering schedules",
+          "Water conservation through efficient design"
+        ],
+        "faq": [
+          {
+            "question": "How long does a new irrigation system installation take?",
+            "answer": "Most residential installations in Sacramento take 2-3 days, depending on property size and complexity. We work efficiently to minimize disruption to your daily life."
+          },
+          {
+            "question": "What's the best system for my drought-tolerant landscaping?",
+            "answer": "For native plant gardens common in our area, we typically recommend drip irrigation with smart controls. This provides precise watering at the root zone while minimizing evaporation loss during hot days."
+          },
+          {
+            "question": "Do you handle the permit process?",
+            "answer": "Yes, we manage all required permits with Sacramento County and local municipalities, including backflow prevention device testing and certification."
+          }
+        ]
+      },
+      {
+        "slug": "system-repairs",
+        "name": "Irrigation System Repairs",
+        "shortDescription": "Fast, durable fixes for common valley irrigation problems.",
+        "description": "Sacramento's extreme temperature swings and reactive clay soils create unique challenges for irrigation systems. From cracked pipes caused by soil shifting in Elk Grove to sun-damaged valves in Roseville's newer neighborhoods, we've seen and fixed every type of local system failure.\n\nOur repair service begins with comprehensive diagnostics to identify not just the immediate issue but underlying causes. We check for common Sacramento problems like mineral buildup from hard water, gopher damage in Folsom's open spaces, or controller malfunctions during power fluctuations. Repairs use premium parts designed to withstand our climate's demands.\n\nFor emergency leaks that could damage your foundation or waste precious water, we offer same-day service throughout our coverage area. We also provide detailed repair reports to help you anticipate future maintenance needs specific to your system and property conditions.",
+        "process": [
+          "Step 1: Complete system evaluation and problem diagnosis",
+          "Step 2: Explanation of repair options and recommendations",
+          "Step 3: High-quality repair with durable components",
+          "Step 4: System testing and performance verification"
+        ],
+        "benefits": [
+          "Fast response to prevent water waste",
+          "Long-lasting repairs using valley-tested parts",
+          "Diagnosis of underlying issues",
+          "Transparent pricing with no hidden fees"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my system needs repairs?",
+            "answer": "Common signs include uneven watering patterns, unusually high water bills, pooling water in certain areas (especially concerning with clay soils), or reduced pressure. Many Sacramento homeowners schedule annual check-ups before summer peak season."
+          },
+          {
+            "question": "Can you repair older systems?",
+            "answer": "Absolutely. We specialize in maintaining and upgrading Sacramento's diverse irrigation systems, from historic Land Park homes to new Natomas developments. When possible, we preserve functional older components while replacing only what's necessary."
+          },
+          {
+            "question": "Do you offer warranties on repairs?",
+            "answer": "All our repairs come with a 1-year warranty on parts and labor. Many components have longer manufacturer warranties that we'll help you register."
+          }
+        ]
+      },
+      {
+        "slug": "seasonal-adjustments",
+        "name": "Seasonal Adjustments",
+        "shortDescription": "Climate-appropriate watering schedules for Sacramento's distinct seasons.",
+        "description": "Sacramento's dramatically different wet winters and dry summers require thoughtful irrigation adjustments throughout the year. Our seasonal service ensures your system delivers the right amount of water when plants need it most, accounting for factors like the Central Valley's famous tule fog and our extended periods of 100°+ heat.\n\nIn spring, we prepare systems for summer by checking for winter damage from soil movement, adjusting spray patterns for new growth, and programming smart controllers with appropriate summer schedules. Fall service includes reducing run times as temperatures cool and preparing pipes for possible freezes in outlying areas like Folsom's higher elevations.\n\nWe also provide special drought response adjustments when Sacramento implements watering restrictions, helping you maintain landscape health within compliance. Our team stays current on all local water regulations so you don't have to.",
+        "process": [
+          "Step 1: Comprehensive system inspection",
+          "Step 2: Nozzle and head adjustments for current conditions",
+          "Step 3: Controller reprogramming for seasonal needs",
+          "Step 4: Performance verification and efficiency report"
+        ],
+        "benefits": [
+          "Optimal watering for each season",
+          "Prevention of weather-related damage",
+          "Compliance with local water regulations",
+          "Extended system lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How often should seasonal adjustments be made?",
+            "answer": "We recommend twice-yearly service - once in spring before summer heat arrives, and again in fall as temperatures cool. Some Sacramento homeowners with sensitive plants opt for quarterly adjustments."
+          },
+          {
+            "question": "Can smart controllers eliminate the need for seasonal service?",
+            "answer": "While smart controllers help, they still benefit from professional calibration to account for soil conditions and microclimate factors specific to your Sacramento property. We ensure all sensors and settings are optimized."
+          },
+          {
+            "question": "Do you adjust drip systems differently than sprinklers?",
+            "answer": "Yes. Drip systems require different seasonal attention, particularly checking for emitter clogs from our mineral-rich water and adjusting flow rates as plants mature. We specialize in both types of systems."
+          }
+        ]
+      },
+      {
+        "slug": "drip-irrigation",
+        "name": "Drip Irrigation Solutions",
+        "shortDescription": "Precision watering for drought-tolerant landscapes and garden beds.",
+        "description": "As Sacramento homeowners increasingly embrace water-wise landscaping, drip irrigation has become essential for maintaining beautiful yards without waste. Our specialized drip systems deliver water directly to plant roots, minimizing evaporation loss during our hot summers while preventing runoff on clay soils.\n\nWe design drip solutions for various Sacramento landscape features: native plant gardens in Midtown, vegetable beds in East Sac community gardens, or tree watering in sprawling Elk Grove yards. Each system considers factors like soil absorption rates (particularly important in our dense clay) and sun exposure patterns.\n\nFor existing sprinkler systems, we can convert appropriate zones to drip, often reducing water use by 30-50% while improving plant health. All our drip installations include filtration to handle Sacramento's hard water and pressure regulation to ensure even distribution across slopes common in Folsom and Roseville neighborhoods.",
+        "process": [
+          "Step 1: Landscape assessment and drip zone planning",
+          "Step 2: Custom design for plant types and soil conditions",
+          "Step 3: Quality component selection and installation",
+          "Step 4: System testing and owner education"
+        ],
+        "benefits": [
+          "Significant water savings",
+          "Healthier plants with targeted watering",
+          "Reduced weed growth",
+          "Compatibility with water restrictions"
+        ],
+        "faq": [
+          {
+            "question": "Is drip irrigation good for mature trees?",
+            "answer": "Absolutely. We install specialized deep watering systems for Sacramento's valued shade trees, particularly important during drought years. These deliver water slowly to encourage deep root growth beyond our compacted topsoil."
+          },
+          {
+            "question": "Can drip systems work with my existing sprinkler controller?",
+            "answer": "In most cases, yes. We can typically add drip zones to your current system, though some older controllers may need upgrading to properly manage the different pressure requirements."
+          },
+          {
+            "question": "How do you prevent emitter clogging from our hard water?",
+            "answer": "We install quality filters and use self-cleaning emitters designed for Sacramento's water conditions. Regular maintenance checks are also recommended to catch any mineral buildup early."
+          }
+        ]
+      },
+      {
+        "slug": "smart-controllers",
+        "name": "Smart Controller Installation",
+        "shortDescription": "Weather-responsive irrigation technology for Sacramento yards.",
+        "description": "Smart irrigation controllers have revolutionized water management in Sacramento's challenging climate. These systems automatically adjust watering based on real-time weather data, soil moisture levels, and plant needs - critical during our fluctuating seasons and water restrictions.\n\nWe install and program leading smart controller brands to work with Sacramento's specific conditions. The technology accounts for local factors like the drying effect of north valley winds, the cooling influence of delta breezes in Land Park, or heat retention in Roseville's newer paved communities. Controllers can be managed remotely via smartphone, letting you make adjustments when unexpected heat waves or storms occur.\n\nFor homeowners participating in Sacramento's water agency rebate programs, we handle all documentation to ensure you qualify for maximum savings. Our team stays current on all local incentive programs to help you upgrade affordably.",
+        "process": [
+          "Step 1: Evaluation of existing system compatibility",
+          "Step 2: Controller selection based on landscape needs",
+          "Step 3: Professional installation and sensor placement",
+          "Step 4: Detailed programming and owner training"
+        ],
+        "benefits": [
+          "Automatic weather adaptation",
+          "Water savings of 20-40%",
+          "Remote monitoring and control",
+          "Rebate program assistance"
+        ],
+        "faq": [
+          {
+            "question": "Do smart controllers work with older irrigation systems?",
+            "answer": "Most do, though some very old systems may need minor upgrades. We'll assess your current setup and recommend any necessary modifications to ensure compatibility."
+          },
+          {
+            "question": "How much can I save with a smart controller?",
+            "answer": "Sacramento homeowners typically see a 20-40% reduction in irrigation water use. Combined with local rebates, most systems pay for themselves within two summers."
+          },
+          {
+            "question": "What happens during power outages?",
+            "answer": "Quality controllers have battery backup to retain programming. We also set appropriate default programs that will maintain your landscape if connectivity is temporarily lost."
+          }
+        ]
+      },
+      {
+        "slug": "backflow-testing",
+        "name": "Backflow Testing & Repair",
+        "shortDescription": "Certified backflow prevention services meeting Sacramento County requirements.",
+        "description": "Backflow prevention devices are crucial for protecting Sacramento's drinking water from irrigation system contamination. These devices require annual testing by certified professionals - a service we provide throughout the county, from Midtown's historic homes to Elk Grove's newer developments.\n\nOur certified testers perform thorough inspections and tests according to Sacramento County standards. We check for common local issues like mineral buildup from hard water, wear from constant temperature fluctuations, or damage from landscape maintenance. Failed devices can often be repaired on-site using parts designed for our water conditions.\n\nWe handle all paperwork and reporting to ensure your compliance with local ordinances. For property transactions or new system installations, we provide complete backflow services including device selection, installation, testing, and certification submission.",
+        "process": [
+          "Step 1: Visual inspection of backflow device and connections",
+          "Step 2: Performance testing using calibrated gauges",
+          "Step 3: Repair recommendations if needed",
+          "Step 4: Certification paperwork completion and submission"
+        ],
+        "benefits": [
+          "Compliance with county regulations",
+          "Protection of drinking water",
+          "Certified testing by local experts",
+          "Complete documentation handling"
+        ],
+        "faq": [
+          {
+            "question": "How often does my backflow device need testing?",
+            "answer": "Sacramento County requires annual testing for most residential irrigation systems. We can schedule reminders so you never miss this important requirement."
+          },
+          {
+            "question": "What causes a backflow device to fail testing?",
+            "answer": "Common issues we find include internal wear from our mineral-rich water, damaged seals from temperature extremes, or improper installation. Many minor issues can be repaired rather than requiring full replacement."
+          },
+          {
+            "question": "Do you test commercial systems?",
+            "answer": "Yes, our certified testers service both residential and commercial properties throughout the Sacramento area, handling all sizes and types of backflow prevention assemblies."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Martha R.",
+        "rating": 5,
+        "service": "Drip Irrigation Installation",
+        "text": "Summit transformed our East Sac backyard into a water-efficient oasis. They designed a custom drip system for our native plant garden that accounts for the different sun exposure on each side of our house. Three summers later, our plants are healthier than ever and our water bill is 40% lower. The team even came back to tweak the system after the first month at no extra charge.",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "James T.",
+        "rating": 5,
+        "service": "Emergency Repair",
+        "text": "When a broken sprinkler line started flooding our Roseville yard on a 105-degree day, Summit had a technician out within two hours. They not only fixed the immediate leak but diagnosed an underlying issue with our clay soil shifting that had caused the break. Their repair has held strong through two summers of extreme heat.",
+        "date": "2025-01-22"
+      },
+      {
+        "name": "Lisa and Dan W.",
+        "rating": 5,
+        "service": "Smart Controller Installation",
+        "text": "We were skeptical about smart controllers but took advantage of the SMUD rebate Summit told us about. The system has been fantastic - it automatically adjusted watering during last September's heat wave and again during those unexpected November rains. Best part? We monitored and controlled everything from our phones while visiting family in Oregon.",
+        "date": "2024-11-30"
+      },
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "service": "Seasonal Adjustments",
+        "text": "As new Sacramento homeowners from the Bay Area, we had no idea how much irrigation needed to change with the seasons. Summit's bi-annual service has kept our Land Park lawn green without wasting water. They even showed us how different areas of our yard need varying amounts of water due to soil composition changes.",
+        "date": "2024-10-12"
+      },
+      {
+        "name": "Aisha K.",
+        "rating": 5,
+        "service": "Backflow Testing",
+        "text": "Fast, professional backflow testing for our Elk Grove home. The technician explained exactly what he was testing and why it matters for our community's water safety. Summit handled all the county paperwork and even reminded us when next year's test will be due. No upsells or pressure - just good service.",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Greg P.",
+        "rating": 5,
+        "service": "Full System Installation",
+        "text": "Our 1970s-era irrigation system in Arden-Arcade was beyond repair. Summit designed a new system that separates our drought-tolerant front yard from the backyard lawn, with smart controls for each zone. They worked around our mature trees carefully and cleaned up so well our kids were playing in the yard that evening.",
+        "date": "2024-08-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Sacramento Irrigation Services | Summit Irrigation",
+        "description": "Local experts designing water-efficient irrigation systems for Sacramento homes. Serving Elk Grove, Roseville, Folsom with smart solutions for our climate."
+      },
+      "about": {
+        "title": "About Our Sacramento Irrigation Company",
+        "description": "Meet Summit Irrigation - trusted local specialists solving Central Valley watering challenges since 2012. Learn our Sacramento-focused approach."
+      },
+      "services": {
+        "title": "Sacramento Irrigation Services & Solutions",
+        "description": "Comprehensive irrigation services for Sacramento homes: installations, repairs, smart controllers, drip systems, backflow testing and seasonal adjustments."
+      },
+      "contact": {
+        "title": "Contact Sacramento's Irrigation Experts",
+        "description": "Get in touch with Summit Irrigation for all your Sacramento area watering needs. Serving Elk Grove, Roseville, Folsom and surrounding communities."
+      },
+      "reviews": {
+        "title": "Sacramento Irrigation Company Reviews",
+        "description": "See what Sacramento homeowners say about Summit Irrigation's services. Real feedback from Elk Grove, Roseville, Folsom and surrounding areas."
+      },
+      "service-areas": {
+        "title": "Sacramento Area Irrigation Services",
+        "description": "Professional irrigation services covering Sacramento neighborhoods and nearby cities including Elk Grove, Roseville and Folsom."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    },
+    "serviceAreas": [
+      {
+        "city": "Elk Grove",
+        "slug": "elk-grove-ca",
+        "state": "CA",
+        "content": "Summit Irrigation provides expert irrigation solutions for Elk Grove's thriving master-planned communities. With hot summers regularly exceeding 100°F, efficient irrigation systems are essential to maintain lush landscapes while conserving water. Our team specializes in smart irrigation technology tailored for newer developments built from the 1990s to today. From drip irrigation for drought-tolerant landscaping to high-efficiency sprinkler systems, we help Elk Grove homeowners and businesses keep their properties green without waste.",
+        "localContext": "Elk Grove is a rapidly growing city with modern planned communities and a semi-arid climate requiring water-wise irrigation.",
+        "nearbyAreas": [
+          "Sacramento",
+          "Galt",
+          "Rancho Cordova"
+        ]
+      },
+      {
+        "city": "Roseville",
+        "slug": "roseville-ca",
+        "state": "CA",
+        "content": "Roseville's planned communities benefit from Summit Irrigation's specialized services designed for hot, dry summers. We install and maintain irrigation systems that meet the needs of newer neighborhoods developed primarily in the 1990s-2000s. Our water-efficient solutions help combat the extreme heat that frequently tops 100°F while complying with local water restrictions. Whether it's upgrading older systems or designing new installations for commercial properties, we ensure optimal coverage with minimal water usage.",
+        "localContext": "Roseville features carefully planned residential areas and commercial developments with significant irrigation needs during long, hot summers.",
+        "nearbyAreas": [
+          "Rocklin",
+          "Lincoln",
+          "Citrus Heights"
+        ]
+      },
+      {
+        "city": "Folsom",
+        "slug": "folsom-ca",
+        "state": "CA",
+        "content": "Summit Irrigation serves Folsom's newer planned communities with customized irrigation solutions for the region's challenging climate. With summer temperatures consistently above 100°F, proper irrigation is crucial for maintaining healthy landscapes. We specialize in systems that balance water conservation with effective coverage, particularly important in Folsom's newer developments. Our team stays current with the latest smart irrigation technology to help homeowners and businesses manage their water usage efficiently during drought conditions.",
+        "localContext": "Folsom combines modern planned communities with a hot, dry climate that demands smart irrigation solutions.",
+        "nearbyAreas": [
+          "El Dorado Hills",
+          "Rancho Cordova",
+          "Orangevale"
+        ]
+      },
+      {
+        "city": "Sacramento",
+        "slug": "sacramento-ca",
+        "state": "CA",
+        "content": "As Sacramento's trusted irrigation experts, Summit Irrigation helps property owners navigate the challenges of hot, dry summers that regularly exceed 100°F. We service all types of irrigation systems, from historic neighborhoods to modern developments, with solutions tailored to the region's Mediterranean climate. Our water-efficient designs and smart technology installations help clients maintain beautiful landscapes while complying with Sacramento's water conservation regulations. Whether residential or commercial, we provide reliable service and expert advice for all irrigation needs.",
+        "localContext": "California's capital city features diverse neighborhoods with varying irrigation needs in its hot summer climate.",
+        "nearbyAreas": [
+          "West Sacramento",
+          "Carmichael",
+          "Citrus Heights"
+        ]
+      },
+      {
+        "city": "Rocklin",
+        "slug": "rocklin-ca",
+        "state": "CA",
+        "content": "Summit Irrigation serves Rocklin's growing community with specialized irrigation solutions for its hot, dry climate. With summer temperatures frequently surpassing 100°F, efficient water use is paramount for maintaining healthy lawns and landscapes. We design systems that account for Rocklin's newer developments and varying terrain, ensuring optimal coverage while minimizing waste. From residential installations to commercial property maintenance, our team provides expert service tailored to the region's specific needs and water restrictions.",
+        "localContext": "Rocklin's expanding suburban communities require smart irrigation solutions for its hot summer weather patterns.",
+        "nearbyAreas": [
+          "Roseville",
+          "Lincoln",
+          "Loomis"
+        ]
+      },
+      {
+        "city": "El Dorado Hills",
+        "slug": "el-dorado-hills-ca",
+        "state": "CA",
+        "content": "Summit Irrigation provides premium irrigation services for El Dorado Hills' upscale communities, where summer temperatures often exceed 100°F. We specialize in systems that accommodate the area's rolling terrain and premium landscaping expectations. Our water-efficient designs help property owners maintain lush outdoor spaces while complying with conservation requirements. Whether servicing existing systems or installing new smart irrigation technology, we deliver solutions that meet the exacting standards of El Dorado Hills homeowners and businesses.",
+        "localContext": "This affluent community features extensive landscaping needs in a hot summer climate with water conservation challenges.",
+        "nearbyAreas": [
+          "Folsom",
+          "Cameron Park",
+          "Shingle Springs"
+        ]
+      },
+      {
+        "city": "Rancho Cordova",
+        "slug": "rancho-cordova-ca",
+        "state": "CA",
+        "content": "Summit Irrigation serves Rancho Cordova's diverse properties with customized solutions for its hot, dry climate. With summer temperatures regularly above 100°F, efficient irrigation is essential for both residential and commercial landscapes. We design systems that accommodate the area's mix of older and newer developments, focusing on water conservation and smart technology. Our team understands local water regulations and helps clients optimize their irrigation for maximum efficiency during drought conditions.",
+        "localContext": "Rancho Cordova's varied properties require adaptable irrigation solutions for its extreme summer heat.",
+        "nearbyAreas": [
+          "Folsom",
+          "Sacramento",
+          "Gold River"
+        ]
+      },
+      {
+        "city": "Lincoln",
+        "slug": "lincoln-ca",
+        "state": "CA",
+        "content": "Summit Irrigation provides specialized services for Lincoln's growing communities, where summer temperatures frequently exceed 100°F. We design irrigation systems that meet the needs of newer developments while addressing water conservation concerns. Our solutions help property owners maintain healthy landscapes through the hot, dry summers without unnecessary water waste. From residential installations to commercial property maintenance, we offer expert advice and reliable service tailored to Lincoln's specific climate challenges.",
+        "localContext": "Lincoln's expanding planned communities require efficient irrigation solutions for hot summer conditions.",
+        "nearbyAreas": [
+          "Roseville",
+          "Rocklin",
+          "Wheatland"
+        ]
+      },
+      {
+        "city": "Citrus Heights",
+        "slug": "citrus-heights-ca",
+        "state": "CA",
+        "content": "Summit Irrigation serves Citrus Heights with irrigation solutions designed for its hot summer climate, where temperatures regularly surpass 100°F. We help homeowners and businesses maintain attractive landscapes while conserving water through efficient system design and smart technology. Our team understands the needs of Citrus Heights' mix of older and newer neighborhoods, providing tailored solutions for each property type. From system upgrades to new installations, we ensure optimal performance while complying with water use regulations.",
+        "localContext": "Citrus Heights features diverse housing stock with significant irrigation needs during long, hot summers.",
+        "nearbyAreas": [
+          "Fair Oaks",
+          "Orangevale",
+          "Antelope"
+        ]
+      },
+      {
+        "city": "Galt",
+        "slug": "galt-ca",
+        "state": "CA",
+        "content": "Summit Irrigation provides expert irrigation services for Galt's properties, helping them thrive in summer temperatures that frequently exceed 100°F. We design systems that accommodate the area's agricultural heritage and newer residential developments, focusing on water efficiency and durability. Our solutions help property owners maintain healthy landscapes while minimizing water usage during drought conditions. Whether servicing existing systems or installing new technology, we deliver reliable performance tailored to Galt's specific climate challenges.",
+        "localContext": "Galt's mix of rural and suburban properties requires adaptable irrigation solutions for hot summer weather.",
+        "nearbyAreas": [
+          "Elk Grove",
+          "Lodi",
+          "Herald"
+        ]
+      },
+      {
+        "city": "Loomis",
+        "slug": "loomis-ca",
+        "state": "CA",
+        "content": "Summit Irrigation serves Loomis with premium irrigation solutions designed for its hot summer climate, where temperatures often exceed 100°F. We specialize in systems that accommodate the area's larger properties and upscale landscaping expectations. Our water-efficient designs help property owners maintain beautiful outdoor spaces while complying with conservation requirements. From orchard irrigation to residential system maintenance, we provide expert service tailored to Loomis's specific needs and terrain challenges.",
+        "localContext": "Loomis features spacious properties with significant landscaping needs in a hot summer climate.",
+        "nearbyAreas": [
+          "Rocklin",
+          "Penryn",
+          "Newcastle"
+        ]
+      },
+      {
+        "city": "Orangevale",
+        "slug": "orangevale-ca",
+        "state": "CA",
+        "content": "Summit Irrigation provides specialized irrigation services for Orangevale's properties, helping them withstand summer temperatures that regularly surpass 100°F. We design systems that accommodate the area's mix of older and newer homes, focusing on water efficiency and smart technology. Our solutions help property owners maintain attractive landscapes while minimizing water waste during drought conditions. Whether upgrading existing systems or installing new ones, we deliver reliable performance tailored to Orangevale's specific climate challenges.",
+        "localContext": "Orangevale's varied residential properties require efficient irrigation solutions for hot summer weather.",
+        "nearbyAreas": [
+          "Citrus Heights",
+          "Fair Oaks",
+          "Folsom"
+        ]
+      }
+    ]
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "irrigation-system-installation": "/images/service-irrigation-system-installation.webp",
+      "system-repairs": "/images/service-system-repairs.webp",
+      "seasonal-adjustments": "/images/service-seasonal-adjustments.webp",
+      "drip-irrigation": "/images/service-drip-irrigation.webp",
+      "smart-controllers": "/images/service-smart-controllers.webp",
+      "backflow-testing": "/images/service-backflow-testing.webp"
+    },
+    "servicesResponsive": {
+      "irrigation-system-installation": {
+        "src": "/images/service-irrigation-system-installation.webp",
+        "srcset": "/images/service-irrigation-system-installation-400w.webp 400w, /images/service-irrigation-system-installation-800w.webp 800w, /images/service-irrigation-system-installation-1200w.webp 1200w, /images/service-irrigation-system-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "system-repairs": {
+        "src": "/images/service-system-repairs.webp",
+        "srcset": "/images/service-system-repairs-400w.webp 400w, /images/service-system-repairs-800w.webp 800w, /images/service-system-repairs-1200w.webp 1200w, /images/service-system-repairs.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "seasonal-adjustments": {
+        "src": "/images/service-seasonal-adjustments.webp",
+        "srcset": "/images/service-seasonal-adjustments-400w.webp 400w, /images/service-seasonal-adjustments-800w.webp 800w, /images/service-seasonal-adjustments-1200w.webp 1200w, /images/service-seasonal-adjustments.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drip-irrigation": {
+        "src": "/images/service-drip-irrigation.webp",
+        "srcset": "/images/service-drip-irrigation-400w.webp 400w, /images/service-drip-irrigation-800w.webp 800w, /images/service-drip-irrigation-1200w.webp 1200w, /images/service-drip-irrigation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "smart-controllers": {
+        "src": "/images/service-smart-controllers.webp",
+        "srcset": "/images/service-smart-controllers-400w.webp 400w, /images/service-smart-controllers-800w.webp 800w, /images/service-smart-controllers-1200w.webp 1200w, /images/service-smart-controllers.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "backflow-testing": {
+        "src": "/images/service-backflow-testing.webp",
+        "srcset": "/images/service-backflow-testing-400w.webp 400w, /images/service-backflow-testing-800w.webp 800w, /images/service-backflow-testing-1200w.webp 1200w, /images/service-backflow-testing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
